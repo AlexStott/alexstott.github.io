@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 <div class="cv-download-links">
-  <a href="{{ base_path }}/files/Stott_CVandPublications.pdf" class="btn btn--primary">Please see full CV here</a>
+  <a href="{{ base_path }}/files/AlexStott_CVandPublications.pdf" class="btn btn--primary">Please see full CV here</a>
 </div>
 
 Education
