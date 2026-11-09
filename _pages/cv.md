@@ -20,6 +20,7 @@ Education
 
 Research experience
 ======
+* 2026-: Post doc at the University of the Basque Country (EHU), Bilbao, Spain
 * 2023-2025: CNES (French space agency) fellowship at ISAE Supaero, Université de Toulouse
   * A machine learning framework for geophysical and atmospheric monitoring in planetary science missions
 * 2020-2023: Postdoctorant at ISAE Supaero, Université de Toulouse
