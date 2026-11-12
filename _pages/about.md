@@ -26,8 +26,9 @@ I am a science team member of the NASA Perseverance and InSight missions to Mars
   - Turbulence and boundary layer processes
   - Aeolian processes
 - Seismology and geophysics
-  - Event sources types from impacts or tectonic origins
+  - Event source types and seismicity from impact or tectonic origins
   - Scattering effects
+  - Environmental seismology
 - Machine learning and AI for science
 - Planetology
 - Space missions and instrumentation
